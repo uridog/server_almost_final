@@ -1,0 +1,296 @@
+Appliance
+Address Book
+Aprons
+Aluminium Foil
+Air Conditioner	Armchair
+Apple Juice
+Aspirin
+All-purpose Cleaner
+Awning
+Air Fryer
+Apron
+Aluminum Foil
+Armoire
+Apple Corer
+Analog Clock
+Alarm Clock
+Allspice
+Bicycle Pump
+Basketball
+Burglar Alarm
+Bottle
+Bandage
+Boxer
+Bucket
+Bedding
+Broom
+Batteries
+Belt
+Bible
+Bulletin
+Board
+Baseball
+Bat
+Bag
+Blankets
+Backpack
+Bathrobe
+Bread
+Box
+Backdoor
+Blinds
+Cereal
+Coffee Maker
+Coffee Table
+Cell Phone
+Cotton Balls
+Clothes Washer
+Coupons
+Cookie
+Cutter
+Containers
+Cough Drops
+Cleaner	Chairs
+Car Keys
+Cards
+Cat Litter
+Card Table
+Camera
+Curtain
+Clock
+Candles
+Curtains
+Door Knob
+Duvet
+Duster
+Dish Towel
+Dish Rag
+Doorbell
+Dish Washer
+Digger
+Dressers
+Dress
+Dish
+Ditergent
+Dinner Set
+Door Stop
+Drape
+Dustpan	Dryer
+Eye Drops
+Egg Holder
+Envelopes
+Extension Cord
+Egg Cup	Earplugs
+Electric Razor
+Espresso Maker
+Edger
+Egg Cooker
+Ethernet Cable
+Electric Toothbrush
+Egg
+Frying Pan
+Fax Machine
+Fire Extinguisher
+Flashlight
+Fly Swatter
+Flatscreen Tv
+Furnace
+Figurine
+Fly
+Food Processor
+Furnace
+Flashlight
+Fish
+Foot Stool
+Fish Flakes
+Gravy
+Gear
+Glasses
+Glass Cups
+Grass
+Green Bin
+Garden Rake
+Groceries
+Gum
+Glass
+Hinge
+Hooks
+Highlighter
+Hand Sanitizer
+Hot Plate
+Hand Mixer
+Hose
+Humidifier
+Hutch
+Hamper
+Houseplant
+Hurricane Lamp
+Ironing Board
+Iphone
+Inch Ruler
+Ice Cream
+Ivory Soap
+Icemaker
+Jammies
+Junk
+Juicer
+Japanese Child
+Jam
+Jerseys
+Jackhammer
+Jewelry Box
+Junk Drawer
+Jewelry
+Juniper
+Jay Cloth
+Keyboard Pad
+Keyboard
+Knives
+Knife
+Kettle
+Kayak
+Kittens
+Kitchen
+Knot
+Kazoo
+Kool aid
+Kitchenaid
+Litter Box
+Lid
+Lock
+Lysol Spray
+Ladder
+Laminate
+Litterbox
+Liquid Soap
+Lingerie
+Light Bulb
+Loofa
+Ladle
+Money Box
+Mustard
+Margerine
+Macbook
+Mothballs
+Muffin Tin
+Measuring Cups
+Mixing Spoons
+Medicine
+Mattress Pads
+Mop
+Magnets
+Nose Trimmer
+Mirror
+Monopoly Game
+Microwave
+Mittens
+Martini Glasses
+Markers
+Note Paper
+Napkins
+Napkins
+Novels
+Noodles
+Newspaper
+Nutcracker
+Nylon String
+Nails
+Oven
+Oven-mitt
+Oats
+Oil
+Oreos
+Oven Mitts
+Oven Cleaner
+Orange Juicer
+Open Door
+Object
+Oval Table
+Plates
+Pliers
+Phones
+Pants
+Poncho
+Polo Shirt
+Poker
+Parka
+Penny Loafers
+Posters
+Pencils
+Picture Frame
+Queen
+Q-tip
+Quarrel
+Quarry
+Quarter
+Quest
+Query
+Quaker
+Oats
+Quiche
+Revolver
+Ribbon
+Rifle
+Rags
+Rugs
+Ring
+Radiator
+Rolling Pin
+Runner
+Rattle
+Rabbit
+Rock Salt
+Spoons
+Saucer
+Saucer
+Settee
+Sheet
+Safe
+shirt
+Towels
+Toaster
+Teapot
+Tapestry
+Tools
+Thesaurus
+Toilet Brush
+Throws
+Teaspoon
+Trash
+Toilet Cleaner
+Toilet
+Toilet Paper
+Thong
+Umbrella
+Undershirt
+Umrella
+Understanding
+Umberella
+Underwear
+Vacuum
+Vicks
+Vacuum
+Vitamins
+Vault
+Washing Machine
+Wood
+Wrench
+Wardrobe
+Washcloth
+Wall
+X-ray
+Xeres
+Yogurt
+Yoyo
+Yoghurt
+Youngsters
+You’ll’s
+Yules
+Zinc
+Zipper
+Zest Soap
+Zest
+Zeppelin
+Zero
+Zodiac
+Zither
